@@ -16,4 +16,5 @@ cd KAIST-AI-LAB-20190724
 jupyter notebook
 ```
 
-3. 실습 파일 concrete_dropout.ipynb로 이동합니다.
+3. 실습 파일 [LAB-4-1-Monte-Carlo-DropOut(MCDO)-Q.ipynb](https://github.com/sungyubkim/KAIST-AI-LAB-20190724/blob/master/LAB-4-1-Monte-Carlo-DropOut(MCDO)-Q.ipynb)로 이동합니다.
+
