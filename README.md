@@ -4,9 +4,6 @@
 
 ```bash
 git clone https://github.com/sungyubkim/KAIST-AI-LAB-20190724
-```
-
-```bash
 cd KAIST-AI-LAB-20190724
 ```
 
